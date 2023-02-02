@@ -45,7 +45,7 @@ public class Ruin {
 
 			}
 
-			else (moneyAmount==0) 
+			if (moneyAmount==0) 
 			{
 				System.out.println("Day " + i);
 				System.out.println("Day was a ruin");
